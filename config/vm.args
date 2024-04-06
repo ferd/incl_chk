@@ -1,0 +1,6 @@
+-sname incl_chk
+
+-setcookie incl_chk_cookie
+
++K true
++A30
